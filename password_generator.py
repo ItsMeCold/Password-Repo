@@ -35,6 +35,8 @@ def generate_password(min_Length, numbers = True , special_characters =  True):
         if special_characters:
             meets_criteria = has_special and meets_criteria
     return pwd
+
+
 min_Length = int(input("Enter min number length : "))
 has_number = input("Should password have numbers? Y/N: ").upper() == "Y"
 has_special = input("Should it have special char? Y/N? : ").upper() == "Y"
