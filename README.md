@@ -1,3 +1,2 @@
-just a normal password generator using python. very casual
-O(n) runtime complexity, bigger password = more runtime(duh)
-same with space complexity.
+password repo , starting wiht basic-ground level stuff. planning to add UI later donw the line, enhancing this into hopefully smth that 
+loooks good on a resume :)
